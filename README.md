@@ -262,6 +262,7 @@ kill -9 3333 # 3333=[pid]
 
 > 실제 kill 명령 실행 예시
 
+
 1. 아래와 같이 ps 명령어로 sshd 프로세스를 확인할 수 있다.
 
 ![image](https://github.com/uueonn/open-source/assets/170390635/82f7ac67-70a4-4e06-8eae-a238312ff3f3)
